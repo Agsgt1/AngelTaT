@@ -1,8 +1,8 @@
 <img align="right" height="100" src="http://img.todepond.com/IMG/Habitat@0.25x.png">
 
-# Habitat
+# AngelTaT
 
-Habitat is a bunch of jumpyscript helpers that I use in my projects.
+AngelTaT is a bunch of jumpyscript helpers that I **dont** use in my projects.
 
 ## How to use it
 
