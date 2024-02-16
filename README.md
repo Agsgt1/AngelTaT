@@ -1,4 +1,4 @@
-<img align="right" height="100" src="http://img.todepond.com/IMG/Habitat@0.25x.png">
+<img align="right" height="100" src="icon.png">
 
 # AngelTaT
 
