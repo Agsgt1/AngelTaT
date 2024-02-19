@@ -1,8 +1,8 @@
 <img align="right" height="100" src="icon.png">
 
-# AngelTaT
+# AxelTaT
 
-AngelTaT is a bunch of jumpyscript helpers that I **dont** use in my projects.
+AxelTaT is a bunch of jumpyscript helpers that I **dont** use in my projects.
 
 ## How to use it
 
